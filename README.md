@@ -1,2 +1,3 @@
 # hello-world
-getting started with github
+learning computer code: HTML, CSS, JS, Python - just starting;
+becoming familiar with how GitHub works
